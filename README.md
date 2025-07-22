@@ -7,7 +7,7 @@ This is a simple and beautiful HTML template for developers to share with their 
 Not every project finds instant success. But even small support can create a big impact — especially when it helps children and learning.
 
 ## 🧰 How to use:
-
+0. choose your favorite slogan or create your slogan
 1. Replace `INSERT_PAYMENT_LINK_HERE` in `index.html` with your own donation/payment link (PayPal, Ko-fi, Wallet, etc.).
 2. Host it on GitHub Pages or include it in your app.
 3. Share with your community, if you feel like it.
