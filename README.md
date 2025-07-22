@@ -12,11 +12,12 @@ Not every project finds instant success. But even small support can create a big
 2. Host it on GitHub Pages or include it in your app.
 3. Share with your community, if you feel like it.
 
-## ✨ Inspired by
+## 💡 Inspiration
 
-🧠 This template was inspired by the style of donation platforms like "Buy Me a Coffee".
+This project is *inspired by the concept of developer support platforms* such as [Buy Me a Coffee](https://www.buymeacoffee.com), but is not affiliated with or endorsed by them in any way.
 
-⚠️ Not affiliated with or endorsed by Buy Me a Coffee
+We encourage freedom and self-hosted alternatives for indie devs.
+
 
 ---
 
